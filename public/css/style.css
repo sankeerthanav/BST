@@ -1,0 +1,47 @@
+body {
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.hide {
+    display: none;
+}
+
+.bst {
+    padding: 10px 60px;
+}
+
+.bst__input {
+    font-size: 14px;
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+    padding-left: 8px;
+}
+
+.bst__input-btn {
+    font-size: 14px;
+    width: 100px;
+    border: none;
+    background: none;
+    outline: none;
+    color: #fff;
+    padding-left: 8px;
+}
+
+.bst__header {
+    color: #333;
+}
+
+td {
+    border-radius: 2px;
+    background-color: #49a4e1;
+    color: #fff;
+    font-weight: 600;
+    margin-left: 15px;
+    outline: 0;
+}

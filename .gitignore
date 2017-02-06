@@ -1,3 +1,7 @@
 .idea/
 node_modules/
 npm-debug.log
+.DS_Store
+public/.DS_Store
+public/image/.DS_Store
+
